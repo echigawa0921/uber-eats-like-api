@@ -23,6 +23,7 @@ import MainLogo from '../images/logo.png';
 import MainCoverImage from '../images/main-cover-image.png';
 import RestaurantImage from '../images/restaurant-image.jpg';
 
+
 const HeaderWrapper = styled.div`
 display: flex;
 justify-content: space-between;
