@@ -14,11 +14,11 @@ SPAという技術を知り、Reactの学習のため作成しました！！
 
 # 環境
 Frontend:   
-        React.  
+     　　React.  
          
 Server.  
-  ruby 2.6.6   
-  Ruby on rails 6.1.3  
+　　ruby 2.6.6   
+　　Ruby on rails 6.1.3  
 
 
 # 機能
