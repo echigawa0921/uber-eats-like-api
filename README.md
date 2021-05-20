@@ -8,7 +8,7 @@ SPAという技術を知り、Reactの学習のため作成しました！！
     
     ＊SPA：Single Page Application
 
-# 見本
+# first-view
 <img width="800" alt="スクリーンショット 2021-05-20 8 57 43" src="https://user-images.githubusercontent.com/69971834/118900156-3d79a480-b94b-11eb-80c6-dfad88f29bdf.png">
 
 
