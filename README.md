@@ -1,7 +1,7 @@
 # <SPA>uber-eats
 
 一時期ubereatsの配達員を自分自身が行なっていた事もあり身近に使っていたアプリから.   
-SPAという技術を知り、Reactの学習のため作成しました！！
+SPAという技術を知り、Reactの学習のため作成しました！！   
    登録リンク：https://line.me/R/ti/p/%40655uvtat
     
     ＊初めてのLINEbot作成です！！
