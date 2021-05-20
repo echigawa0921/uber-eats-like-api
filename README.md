@@ -3,7 +3,7 @@
 一時期ubereatsの配達員を自分自身が行なっていた事もあり身近に使っていたアプリから.   
 SPAという技術を知り、Reactの学習のため作成しました！！   
 フロントをReact/サーバーをRailsで作っています。
-      
+      デプロイ中.  
    
     
     ＊SPA：Single Page Application
