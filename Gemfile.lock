@@ -161,7 +161,7 @@ DEPENDENCIES
   rack-cors
   rails (~> 6.1.3, >= 6.1.3.2)
   spring
-  sqlite3 (~> 1.4.2)
+  sqlite3 (~> 1.4)
   tzinfo-data
   unicorn (= 5.4.1)
 
