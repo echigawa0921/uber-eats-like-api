@@ -4,7 +4,7 @@
 SPAという技術を知り、Reactの学習のため作成しました！！   
 フロントをReact/サーバーをRailsで作っています。
       
-   登録リンク：https://line.me/R/ti/p/%40655uvtat
+   
     
     ＊SPA：Single Page Application
 
