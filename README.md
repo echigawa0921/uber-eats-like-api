@@ -5,7 +5,7 @@ SPAという技術を知り、Reactの学習のため作成しました！！
 フロントをReact/サーバーをRailsで作っています。  
    
 【配達員】.  
-<img height="500" ![A439D9FB-FB9D-4D52-BF9E-F61E201B8704](https://user-images.githubusercontent.com/69971834/119230712-66bb5000-bb58-11eb-958d-bb54a168a3fa.png)>
+<img src="https://user-images.githubusercontent.com/69971834/119362106-52598d80-bce7-11eb-80fe-a92b9e83399f.jpg" height="500">
 
    
  
