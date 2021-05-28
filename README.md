@@ -1,9 +1,16 @@
-# <SPA>uber-eats
+# <SPA>uber-eats-app
 
-一時期ubereatsの配達員を自分自身が行なっていた事もあり身近に使っていたアプリから.   
-SPAという技術を知り、Reactの学習のため作成しました！！   
-フロントをReact/サーバーをRailsで作っています。   
-      デプロイ中.  
+一時期ubereatsの配達員を自分自身が行なっていた事もあり使いやすい身近なアプリを.   
+   作れるものかと調べ始めたのが始まりです。      
+その後、SPAという技術を知り、Reactの学習のため作成しました！！   
+フロントをReact/サーバーをRailsで作っています。  
+   
+【配達員】.  
+<img src="https://user-images.githubusercontent.com/69971834/119362106-52598d80-bce7-11eb-80fe-a92b9e83399f.jpg" height="500">
+
+   
+ 
+      デプロイ中
    
     
     ＊SPA：Single Page Application
