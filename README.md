@@ -2,7 +2,8 @@
 
 一時期ubereatsの配達員を自分自身が行なっていた事もあり使いやすい身近なアプリを.   
    作れるものかと調べ始めたのが始まりです。      
-その後、SPAという技術を知り、Reactの学習のため作成しました！！   
+その後、SPAという技術を知り、Reactの学習のため作成しました！！  
+       ＊SPA：Single Page Application   
       
    フロント：React    
    サーバー：Rails  
@@ -14,7 +15,6 @@
  
      ＊デプロイ中
     
-    ＊SPA：Single Page Application
 
 # first-view
 https://user-images.githubusercontent.com/69971834/119015773-33e84f00-b9d4-11eb-813c-e2832e64dea9.mp4
