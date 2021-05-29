@@ -10,8 +10,7 @@
 
    
  
-      デプロイ中
-   
+     ＊デプロイ中
     
     ＊SPA：Single Page Application
 
