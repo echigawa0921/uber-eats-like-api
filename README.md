@@ -21,10 +21,10 @@ https://user-images.githubusercontent.com/69971834/119015773-33e84f00-b9d4-11eb-
 
 
 # 環境
-Frontend:   
+フロントエンド:   
      　React.  
          
-Server.  
+サーバー:.  
 　ruby 2.6.6   
 　Ruby on rails 6.1.3  
 
