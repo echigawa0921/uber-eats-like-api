@@ -1,7 +1,7 @@
 # <SPA>uber-eats-app(WEB)
 
 一時期ubereatsの配達員を自分自身が行なっていた事もあり使いやすい身近なアプリを.   
-   作れるものかと調べ始めたのが始まりです。      
+   作れるものかと調べ始めたのが始まりです。(下画像)      
 その後、SPAという技術を知り、Reactの学習のため作成しました！！  
        ＊SPA：Single Page Application   
       
