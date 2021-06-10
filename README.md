@@ -1,4 +1,4 @@
-# <SPA>uber-eats-app
+# <SPA>uber-eats-app(WEB)
 
 一時期ubereatsの配達員を自分自身が行なっていた事もあり使いやすい身近なアプリを.   
    作れるものかと調べ始めたのが始まりです。      
